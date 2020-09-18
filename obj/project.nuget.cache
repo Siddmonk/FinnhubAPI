@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qW6m/1X7OKN73SkcmUy8GM6XqJgfAUjqpT688skw6quEBelDJp0kPTaqMS2NQV/vE5Z04fHutGdwmLZxza/0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vajane\\source\\repos\\FinnHubApi\\FinnHubApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vajane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
